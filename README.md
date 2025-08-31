@@ -13,3 +13,6 @@ YMM4で映像エフェクト「揺らす」を追加するプラグイン
 1.このプラグインを[Releases](https://github.com/dmmo-com-jp/TextYurashiPlugin/releases)からインストールする。
 
 2.端末に落としたプラグインをダブルクリックしてYMM4にインストールする。
+
+license
+2025 0901以降の入手にはmitライセンスが適応されます。
